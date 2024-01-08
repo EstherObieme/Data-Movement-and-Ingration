@@ -11,8 +11,8 @@
     <ul>
         <ul>
             <li><a href="https://cran.r-project.org/bin/windows/base/">R-4.3.2 (Or the recently released version)</a></li>
-            <li><a href="https://posit.co/download/rstudio-desktop/">RStudio (An integrated development environment (IDE))</a></li>
+            <li class="marginbottom_dd"><a href="https://posit.co/download/rstudio-desktop/">RStudio (An integrated development environment (IDE))</a></li>
         </ul>
     </ul>
-<dd class="margintop_dd">-  Visual Studio Code: Guide to install Visual Studio Code can be found on Visual Studio Code website, <a href="https://code.visualstudio.com/docs/setup/windows">visualstudio.com</a></dd>
+<dd>-  Visual Studio Code: Guide to install Visual Studio Code can be found on Visual Studio Code website, <a href="https://code.visualstudio.com/docs/setup/windows">visualstudio.com</a></dd>
 </ul>
