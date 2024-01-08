@@ -7,7 +7,7 @@
 
 <h4>Software Requirements:</h4>
 <ul>
-    <dd>- R Installation: R software to install</dd>
+<dd>-  R Installation: R software to install</dd>
     <ul>
          <li><a href="https://cran.r-project.org/bin/windows/base/">R-4.3.2 (Or the recently released version)</a></li>
           <li><a href="https://posit.co/download/rstudio-desktop/">RStudio (An integrated development environment (IDE))</a></li>
