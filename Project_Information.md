@@ -1,9 +1,11 @@
-<!-- linking md file to TextDesign.css file-->
-<link rel="stylesheet" href="TextDesign.css">
 
 <!-- Starting Reqiurement Documentation -->
 <h1>Project Reqirements</h1>
-<p>This project has three key requirements, which are: Software, Documentation, and Programming Language requirements.</p>
+
+<!-- linking md file to TextDesign.css file-->
+<link rel="stylesheet" href="TextDesign.css">
+
+<p class="col">This project has three key requirements, which are: Software, Documentation, and Programming Language requirements.</p>
 
 <h4>Software Requirements:</h4>
 <ul>
