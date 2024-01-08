@@ -14,7 +14,7 @@
         </ul>
     </ul>
 </ul>
-  <ul>
-<dd style ="margin-top: 10px">-  Visual Studio Code: Guide to install Visual Studio Code can be found on Visual Studio Code website, <a href="https://code.visualstudio.com/docs/setup/windows">visualstudio.com</a>
-    </ul>
-</dd>
+<ul>
+    <dd style ="margin-top: 10px">-  Visual Studio Code: Guide to install Visual Studio Code can be found on Visual Studio Code website, <a href="https://code.visualstudio.com/docs/setup/windows">visualstudio.com</a>
+    </dd>
+</ul>
