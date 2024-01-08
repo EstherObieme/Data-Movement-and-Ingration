@@ -2,10 +2,7 @@
 <!-- Starting Reqiurement Documentation -->
 <h1>Project Reqirements</h1>
 
-<!-- linking md file to TextDesign.css file-->
-<link rel="stylesheet" href="TextDesign.css">
-
-<p class= "col">This project has three key requirements, which are: Software, Documentation, and Programming Language requirements.</p>
+<p>This project has three key requirements, which are: Software, Documentation, and Programming Language requirements.</p>
 
 <h4>Software Requirements:</h4>
 <ul>
@@ -18,6 +15,6 @@
     </ul>
 </ul>
   <ul>
-<dd style ="margin-top: 20px">-  Visual Studio Code: Guide to install Visual Studio Code can be found on Visual Studio Code website, <a href="https://code.visualstudio.com/docs/setup/windows">visualstudio.com</a>
+<dd style ="margin-top: 10px">-  Visual Studio Code: Guide to install Visual Studio Code can be found on Visual Studio Code website, <a href="https://code.visualstudio.com/docs/setup/windows">visualstudio.com</a>
     </ul>
 </dd>
