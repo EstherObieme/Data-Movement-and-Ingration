@@ -18,6 +18,8 @@
 <ul>
     <dd style ="margin-top: 10px">-  Visual Studio Code: Guide to install Visual Studio Code can be found on Visual Studio Code website, <a href="https://code.visualstudio.com/docs/setup/windows">visualstudio.com</a>
     </dd>
+</ul>
+<ul>
     <dd style ="margin-top: 10px">-  GitHub: requirement for GitHub is: </dd> 
         <ul>
             <ul>
@@ -31,5 +33,8 @@
                 </ul>
             </ul>
         </ul>
+</ul>
+<ul>
     <dd style ="margin-top: 10px">-	 Microsoft Planner: Project management software</dd>
+</ul>
 </ul>
