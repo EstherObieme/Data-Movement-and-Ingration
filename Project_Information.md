@@ -5,7 +5,7 @@
 <!-- linking md file to TextDesign.css file-->
 <link rel="stylesheet" href="TextDesign.css">
 
-<p class="col">This project has three key requirements, which are: Software, Documentation, and Programming Language requirements.</p>
+<p class= "col">This project has three key requirements, which are: Software, Documentation, and Programming Language requirements.</p>
 
 <h4>Software Requirements:</h4>
 <ul>
@@ -16,5 +16,6 @@
             <li><a href="https://posit.co/download/rstudio-desktop/">RStudio (An integrated development environment (IDE))</a></li>
         </ul>
     </ul>
+    
 <dd style="margin-top: 20px">-  Visual Studio Code: Guide to install Visual Studio Code can be found on Visual Studio Code website, <a href="https://code.visualstudio.com/docs/setup/windows">visualstudio.com</a></dd>
 </ul>
