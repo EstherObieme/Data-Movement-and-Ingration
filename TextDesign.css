@@ -4,6 +4,6 @@ Date: 2024-01-08
 Info: This CSS file is link to Project_Information.md file. it's for styling and aligning text information in the file.
 */
 
-h1 {
+.centerH1 {
     text-align: center;
 }

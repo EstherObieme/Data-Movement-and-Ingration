@@ -2,4 +2,4 @@
 <link rel="stylesheet" href="TextDesign.css">
 
 <!-- Starting Reqiurement Documentation -->
-<h1><u>Project Reqirements</u></h1>
+<h1 class="centerH1">Project Reqirements</h1>
