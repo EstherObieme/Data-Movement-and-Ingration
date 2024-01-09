@@ -4,11 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Requirement</title>
 </head>
-
 <!--Adding Content to Page-->
 <body>
+   <header>
+        <h1>Project Requirement</h1>
+    </header>
     <p>This project has three key requirements, which are: Software, Documentation, and Programming Language requirements.</p>
 
 <h4>Software Requirements:</h4>
