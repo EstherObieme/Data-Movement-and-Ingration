@@ -12,16 +12,14 @@
     <p>This project has three key requirements, which are: Software, Documentation, and Programming Language requirements.</p>
 
 <h4>Software Requirements:</h4>
-<ul>
-<li>-  R Installation: R software to install
     <ul>
-       
-         <li><a href="https://cran.r-project.org/bin/windows/base/">R-4.3.2 (Or the recently released version)</a></li>
-         <li><a href="https://posit.co/download/rstudio-desktop/">RStudio (An integrated development environment (IDE))</a></li>
-        
+    <li>R Installation: R software to install
+        <ul>
+            <li><a href="https://cran.r-project.org/bin/windows/base/">R-4.3.2 (Or the recently released version)</a></li>
+            <li><a href="https://posit.co/download/rstudio-desktop/">RStudio (An integrated development environment (IDE))</a></li>
+        </ul>
+    </li>
     </ul>
-</li>
-</ul>
 
 <ul>
     <li style ="margin-top: 10px">-  Visual Studio Code: Guide to install Visual Studio Code can be found on Visual Studio Code website, <a href="https://code.visualstudio.com/docs/setup/windows">visualstudio.com</a>
