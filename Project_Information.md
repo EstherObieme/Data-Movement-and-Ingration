@@ -11,7 +11,7 @@
         <h1>Project Requirement</h1>
     </header>
     <p>This project has three key requirements, which are: Software, Documentation, and Programming Language requirements.</p>
-
+<section>
 <h4>Software Requirements:</h4>
     <ul>
     <li>R Installation: R software to install
@@ -46,7 +46,9 @@
 <ul>
     <li style ="margin-top: 10px">Microsoft Planner: Project management software<a href="https://www.youtube.com/watch?v=nn0S9KPbN84&t=15s">(Microsoft Planner)</a></li>
 </ul>
+</section>
 
+<section>
 <h4>Documentation Requirements:</h4>
 <ul>
     <li>Professional Documentation for this Research Project is as follow:
@@ -59,7 +61,9 @@
         <li>Citation</li>
     </li>
 </ul>
+</section>
 
+<section>
 <h4>Programming Language Requirements:</h4>
 <ul>
     <li>R Programming Language <a href="https://www.w3schools.com/r/default.asp">(R Tutorial)</a></li>
@@ -68,5 +72,6 @@
 
 <h4><b><u>Project Duration:</u></b></h4>
 <p>Project Deadline is set as 2 weeks. Starting from Monday 8 January 2024 – Monday 15 January 2024.</p>
+</section>
 </body>
 </html>
