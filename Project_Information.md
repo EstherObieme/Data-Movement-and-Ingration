@@ -22,19 +22,22 @@
     </ul>
 
 <ul>
-    <li style ="margin-top: 10px">-  Visual Studio Code: Guide to install Visual Studio Code can be found on Visual Studio Code website, <a href="https://code.visualstudio.com/docs/setup/windows">visualstudio.com</a>
+    <li style ="margin-top: 10px">Visual Studio Code: Guide to install Visual Studio Code can be found on Visual Studio Code website, <a href="https://code.visualstudio.com/docs/setup/windows">visualstudio.com</a>
     </li>
 </ul>
+
 <ul>
-    <li style ="margin-top: 10px">-  GitHub: requirement for GitHub is:  
+    <li style ="margin-top: 10px">GitHub: requirement for GitHub is:  
         <ul>
            <li>GitHub Account</li>
            <li>Understanding of GitHub Essentials:
                 <ul>
-                <li>Repositories</li>
-                <li>Breaches</li>
-                <li>Commits</li>
-                <li>Pull Request</li>
+                    <li>
+                        <li>Repositories</li>
+                        <li>Breaches</li>
+                        <li>Commits</li>
+                        <li>Pull Request</li>
+                    </li>
                 </ul>
             </li>
         </ul>
