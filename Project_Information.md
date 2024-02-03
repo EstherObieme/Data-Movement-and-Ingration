@@ -50,8 +50,8 @@
 
 <section>
 <h4>Documentation Requirements:</h4>
+    <p>Professional Documentation for this Research Project is as follow:</p>
 <ul>
-    <li>Professional Documentation for this Research Project is as follow:
         <li>Title Page</li>
         <li>Table of Contents</li>
         <li>Document Introduction</li>
@@ -59,7 +59,6 @@
         <li>Image display of examples</li>
         <li>Conclusion</li>
         <li>Citation</li>
-    </li>
 </ul>
 </section>
 
@@ -69,9 +68,6 @@
     <li>R Programming Language <a href="https://www.w3schools.com/r/default.asp">(R Tutorial)</a></li>
      <li>HTML and CSS <a href="https://www.w3schools.com/html/default.asp">(HTML Tutorial)</a></li>
 </ul>
-
-<h4><b><u>Project Duration:</u></b></h4>
-<p>Project Deadline is set as 2 weeks. Starting from Monday 8 January 2024 – Monday 15 January 2024.</p>
 </section>
 </body>
 </html>
