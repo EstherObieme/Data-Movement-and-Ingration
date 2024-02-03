@@ -52,7 +52,6 @@
 <h4>Documentation Requirements:</h4>
 <ul>
     <p>Professional Documentation for this Research Project is as follow:</p>
-    <li>
         <li>Title Page</li>
         <li>Table of Contents</li>
         <li>Document Introduction</li>
@@ -60,7 +59,6 @@
         <li>Image display of examples</li>
         <li>Conclusion</li>
         <li>Citation</li>
-    </li>
 </ul>
 </section>
 
